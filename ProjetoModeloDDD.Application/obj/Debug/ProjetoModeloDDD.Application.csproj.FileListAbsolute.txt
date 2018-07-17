@@ -3,3 +3,4 @@ C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Deb
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
