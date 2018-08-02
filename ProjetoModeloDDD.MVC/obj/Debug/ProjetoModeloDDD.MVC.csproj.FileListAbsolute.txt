@@ -53,6 +53,8 @@ C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\vbc.
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -63,6 +65,10 @@ C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.A
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.dll
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.ValueTuple.dll
@@ -74,12 +80,17 @@ C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
-C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.pdb
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll.config
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.xml
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.WebHost.xml
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.ValueTuple.xml
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
@@ -95,7 +106,6 @@ C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.A
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.Web.xml
-C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\pt-br\System.Web.Mvc.resources.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\pt-br\System.Web.Optimization.resources.dll
@@ -108,5 +118,3 @@ C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\Proje
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CopyComplete
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
-C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
-C:\Users\Alex\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml

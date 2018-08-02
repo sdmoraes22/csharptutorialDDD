@@ -5,6 +5,10 @@ namespace ProjetoModeloDDD.Domain.Entities
 {
     public class Cliente
     {
+        protected Cliente()
+        {
+
+        }
         public int ClienteId { get; set; }
 
         public string Nome { get; set; }

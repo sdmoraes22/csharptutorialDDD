@@ -10,7 +10,7 @@ namespace ProjetoModeloDDD.MVC.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return RedirectToAction("Index","Clientes","");
         }
 
         public ActionResult About()

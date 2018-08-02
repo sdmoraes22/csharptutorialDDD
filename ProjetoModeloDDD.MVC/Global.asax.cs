@@ -1,4 +1,5 @@
 ﻿using ProjetoModeloDDD.MVC.AutoMapper;
+using ProjetoModeloDDD.MVC.Ninject;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +20,7 @@ namespace ProjetoModeloDDD.MVC
             BundleConfig.RegisterBundles(BundleTable.Bundles);
 
             AutoMapperConfig.RegisterMappings();
+            DependencyResolver.SetResolver(new NinjectDependencyResolver());
         }
     }
 }
