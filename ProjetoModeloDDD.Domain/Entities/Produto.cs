@@ -2,10 +2,6 @@
 {
     public class Produto
     {
-        protected Produto()
-        {
-
-        }
 
         public int ProdutoId { get; set; }
 
